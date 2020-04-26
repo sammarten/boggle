@@ -1,4 +1,4 @@
-# Web-based, real-time Boggle game
+# A web-based, real-time Boggle game
 
 ## Purpose
 
